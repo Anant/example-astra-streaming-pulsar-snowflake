@@ -13,3 +13,11 @@ cp .env.example .env
 ```
 
 Add your topic , pulsar endpoint, and auth token 
+
+
+Run the script
+
+```
+python stock_producer.py data/stock-prices-10.csv 
+python stock_producer.py data/stock-prices-1000.csv 
+```
