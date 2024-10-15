@@ -1,0 +1,5 @@
+avro==1.11.1
+pulsar==2.0.2
+pulsar_client==3.4.0
+python-dotenv==1.0.1
+argparse==1.4.0
