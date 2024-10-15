@@ -1,5 +1,5 @@
-# example
-example-astra-streaming-pulsar-snowflake
+# example-astra-streaming-pulsar-snowflake
+
 
 
 Install the prerequisites 
